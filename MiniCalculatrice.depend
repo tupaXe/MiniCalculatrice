@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1438462502 source:c:\users\samuel\desktop\convertisseurdesensi\minicalculatrice\main.cpp
+	<iostream>
+	"presentation.h"
+	"Mathematiques.h"
+
+1438461062 c:\users\samuel\desktop\convertisseurdesensi\minicalculatrice\presentation.h
+
+1438461178 source:c:\users\samuel\desktop\convertisseurdesensi\minicalculatrice\presentation.cpp
+	"presentation.h"
+	<iostream>
+
+1438462690 source:c:\users\samuel\desktop\convertisseurdesensi\minicalculatrice\mathematiques.cpp
+	"Mathematiques.h"
+	<iostream>
+
+1438462566 c:\users\samuel\desktop\convertisseurdesensi\minicalculatrice\mathematiques.h
+

@@ -1,0 +1,6 @@
+#ifndef PRESENTATION_H_INCLUDED
+#define PRESENTATION_H_INCLUDED
+
+void calculPossible ();
+
+#endif // PRESENTATION_H_INCLUDED
